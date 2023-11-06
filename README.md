@@ -7,7 +7,7 @@
 - 💻 Learning Python, Javascript, Swift, CSS and HTML
 - 📚 Utilised MERN stack in final project, Chaptrs, a bookclub application 
 - 💪 Adept in Agile methodologies including TDD, OOP, MVC and DDD 
-- ❤️ Interests include coding ⌨️, books, gaming 🕹, history 📖, geography 🌍 and football ⚽️
+- ❤️ Interests include coding ⌨️, books 📚, gaming 🕹, history 📖, geography 🌍 and football ⚽️
 - 🤝 I am seeking new opportunities from November 2023
 - 📝 You can reach me [here](emilycowan1993@gmail.com) and find out more about me from my [CV](https://github.com/Emily-RC/CV)! 
 
