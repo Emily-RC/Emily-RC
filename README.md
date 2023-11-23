@@ -9,6 +9,7 @@
 - 💪 Adept in Agile methodologies including TDD, OOP, MVC and DDD 
 - ❤️ Interests include coding ⌨️, books 📚, gaming 🕹, history 📖, geography 🌍 and football ⚽️
 - 🤝 I am seeking new opportunities from November 2023
+- Currently learning React Native and TypeScript and continuing to develop in JavaScript, Python and Swift. 
 - 📝 You can reach me [here](emilycowan1993@gmail.com) and find out more about me from my [CV](https://github.com/Emily-RC/CV)! 
 
 ### 🚀 Tech Stack
